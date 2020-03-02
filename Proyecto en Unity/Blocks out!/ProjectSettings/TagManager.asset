@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - inferior
+  - bloque
+  - vidaExtra
+  - vidaMenos
+  - diezPMas
+  - diezPMenos
+  - veintePMenos
+  - veintePMas
+  - cincuentaPMas
+  - cincuentaPMenos
+  - cienPMas
+  - cienPMenos
+  - barraCrece
+  - barra
+  - bordeIDS
+  - barraDecrece
+  - bloqueInd
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Imagen Fondo
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
